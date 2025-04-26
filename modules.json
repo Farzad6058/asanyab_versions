@@ -1,9 +1,13 @@
 {
-    "AdComment":"1.0.5",
-    "Brands":"1.0.5",
-    "ChildCategory" : "1.0.5",
-    "CustomModuleJonobGardi" : "1.0.5",
-    "Rewards" : "1.0.5",
-    "Tags": "1.0.5",
-    "Wholesale" : "1.0.5"
+    "AdComment":"1.0.7",
+    "Blog" : "1.0.7",
+    "Brands":"1.0.7",
+    "CarAgency" : "1.0.7",
+    "ChildCategory" : "1.0.7",
+    "CustomModuleJonobGardi" : "1.0.7",
+    "Rewards" : "1.0.7",
+    "Shahkar" : "1.0.7",
+    "SuperUser" : "1.0.7",
+    "Tags": "1.0.7",
+    "Wholesale" : "1.0.7"
 }
